@@ -1,0 +1,24 @@
+body {
+	background: #27408B;
+	color: white
+}
+h2 {
+	color: green;
+	font: 24px;
+}
+header {
+	text-align: center;
+	color: white;
+	}
+nav{
+	color: white;
+}
+.footer{
+	text-align: center;
+	color: red;
+	background: #22316C;
+}
+a {
+	color: red; 
+}
+
